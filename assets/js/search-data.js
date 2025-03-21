@@ -391,51 +391,46 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-parrying-god",
+          section: "News",},{id: "projects-parrying-god",
           title: 'Parrying God',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/digital%20games/1_project/";
+              window.location.href = "/projects/digital%20games/parrying_god/";
+            },},{id: "projects-we-39-re-d-e-a-d",
+          title: 'We&amp;#39;re D.E.A.D.',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/digital%20games/we're_dead/";
+            },},{id: "projects-aircraft-identification-tool",
+          title: 'Aircraft Identification Tool',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/machine%20learning/aircraft_identification_tool/";
+            },},{id: "projects-regression-and-classification",
+          title: 'Regression and Classification',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/machine%20learning/regression_and_classification/";
+            },},{id: "projects-brimstone-buddies",
+          title: 'Brimstone Buddies',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tabletop%20games/brimstone_buddies/";
+            },},{id: "projects-factory-tycoon",
+          title: 'Factory Tycoon',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tabletop%20games/factory_tycoon/";
+            },},{id: "projects-rate-my-tos",
+          title: 'Rate My TOS',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/web%20development/factory_tycoon/";
+            },},{id: "projects-heart-disease-prediction-tool",
+          title: 'Heart Disease Prediction Tool',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/web%20development/heart_disease_prediction_tool/";
             },},{
         id: 'social-email',
         title: 'email',
