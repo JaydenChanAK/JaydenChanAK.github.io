@@ -393,44 +393,44 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-parrying-god",
           title: 'Parrying God',
-          description: "with background image",
+          description: "Designer and Developer  Sekiro meets Smash meets Devil May Cry.  January 2025 - Present",
           section: "Projects",handler: () => {
               window.location.href = "/projects/digital%20games/parrying_god/";
             },},{id: "projects-we-39-re-d-e-a-d",
           title: 'We&amp;#39;re D.E.A.D.',
-          description: "with background image",
+          description: "Department of Entity and Anomaly Disposal  In development...",
           section: "Projects",handler: () => {
               window.location.href = "/projects/digital%20games/we're_dead/";
             },},{id: "projects-aircraft-identification-tool",
           title: 'Aircraft Identification Tool',
-          description: "with background image",
+          description: "Developer  ML pipeline and model to classify aircraft.  January - February 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/machine%20learning/aircraft_identification_tool/";
             },},{id: "projects-regression-and-classification",
           title: 'Regression and Classification',
-          description: "with background image",
+          description: "Developer  Regression and classification models.  April - May 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/machine%20learning/regression_and_classification/";
             },},{id: "projects-brimstone-buddies",
           title: 'Brimstone Buddies',
-          description: "with background image",
+          description: "Lead Designer  &#39;Cute and fucked up&#39; deathmatch card game.  March - May 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tabletop%20games/brimstone_buddies/";
-            },},{id: "projects-factory-tycoon",
-          title: 'Factory Tycoon',
-          description: "with background image",
+            },},{id: "projects-capitalist-craze",
+          title: 'Capitalist Craze',
+          description: "Lead Designer  All is fair in love, war, and the relentless pursuit of corporate domination.  February - March 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/tabletop%20games/factory_tycoon/";
-            },},{id: "projects-rate-my-tos",
-          title: 'Rate My TOS',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/web%20development/factory_tycoon/";
+              window.location.href = "/projects/tabletop%20games/capitalist_craze/";
             },},{id: "projects-heart-disease-prediction-tool",
           title: 'Heart Disease Prediction Tool',
-          description: "with background image",
+          description: "Developer  Website to predict chance of heart disease.  November 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/web%20development/heart_disease_prediction_tool/";
+            },},{id: "projects-rate-my-tos",
+          title: 'Rate My TOS',
+          description: "Front-End Developer and AI Lead  Chrome extension to evaluate terms of service.  November 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/web%20development/rate_my_tos/";
             },},{
         id: 'social-email',
         title: 'email',
