@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Parrying God
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: digital games
 related_publications: true
 ---
 

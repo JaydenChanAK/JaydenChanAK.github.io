@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A mostly comprehensive collection of my computer science projects and games.
+description: A mostly complete collection of my projects and games.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [machine learning, web development, digital games, tabletop games]
 horizontal: false
 ---
 
