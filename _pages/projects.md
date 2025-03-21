@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A mostly comprehensive collection of my computer science projects and games.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
