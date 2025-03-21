@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jaydenchanak
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - vitozou/rate-my-tos
+  - jaydenchanak/regression-and-classification
+  - jaydenchanak/aircraft-identification-tool
+  - jaydenchanak/vpost-internship
