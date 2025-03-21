@@ -1,5 +1,4 @@
 github_users:
-  - jaydenchanak
 
 repo_description_lines_max: 2
 
@@ -8,3 +7,5 @@ github_repos:
   - jaydenchanak/regression-and-classification
   - jaydenchanak/aircraft-identification-tool
   - jaydenchanak/vpost-internship
+  - jaydenchanak/itp216-final-project
+  - jaydenchanak/wolf-of-spenard-road
