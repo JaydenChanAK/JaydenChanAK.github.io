@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-"Hey, I'm Jayden, and welcome to my portfolio! I was born and raised in Anchorage, Alaska, to first-generation immigrants, and I'm now based in Southern California.
+Hey, I'm Jayden, and welcome to my portfolio! I was born and raised in Anchorage, Alaska, to first-generation immigrants, and I'm now based in Southern California.
 
 I'm a sophomore at the University of Southern California, studying computer science and game development with a minor in artificial intelligence. I plan to pursue an accelerated master's in computer science, aiming to graduate with both a bachelor's and master's in the spring of 2027.
 
