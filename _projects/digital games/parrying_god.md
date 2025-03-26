@@ -5,7 +5,7 @@ description:
     <u><b>Designer and Developer</b></u> <br/> 
     Sekiro meets Smash meets Devil May Cry. <br/> 
     <i>January 2025 - Present</i>
-img: assets/img/pg/cover.png
+img: assets/img/pg/1.1.png
 importance: 1
 category: digital games
 related_publications: false
