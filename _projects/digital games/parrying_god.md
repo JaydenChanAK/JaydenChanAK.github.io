@@ -35,14 +35,11 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=gFWpbuZchxY" 
-            allowfullscreen></iframe>
-        </div>
+        {% include figure.liquid loading="eager" path="assets/img/pg/trailer.mp4" title="trailer" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Trailer.
+    Trailer. <a href="https://www.youtube.com/watch?v=gFWpbuZchxY" target="_blank">Watch here in high quality.</a>
 </div>
 
 <div class="row">
@@ -63,31 +60,40 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
     </div>
 </div>
 <div class="caption">
-    Character models.
+    Model renders.
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.1.jpg" title="card 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.1.jpg" title="character customization" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.2.jpg" title="card 2" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.3.jpg" title="card 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.6.jpg" title="tutorial" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.4.jpg" title="card 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.2.jpg" title="samurai 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.5.jpg" title="card 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.3.jpg" title="samurai 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.4.jpg" title="buster sword" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.6.jpg" title="card 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.5.jpg" title="awakening" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     In-game images.
+</div>
+
+<div class="row mt-5">
+    <div class="col-sm">
+        <p><b>Made in collaboration with:</b> Matheo Mourot</p>
+        <p><b>Developed as part of:</b> USC Games</p>
+    </div>
 </div>
