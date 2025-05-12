@@ -27,7 +27,7 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" 
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=gFWpbuZchxY" 
             allowfullscreen></iframe>
         </div>
     </div>
@@ -59,10 +59,24 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pg/3.1.png" title="image 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.1.jpg" title="card 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pg/3.2.png" title="image 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.2.jpg" title="card 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.3.jpg" title="card 3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.4.jpg" title="card 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.5.jpg" title="card 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.6.jpg" title="card 3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
