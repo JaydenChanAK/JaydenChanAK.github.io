@@ -35,8 +35,11 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/trailer.mp4" title="trailer" class="img-fluid rounded z-depth-1" %}
-    </div>
+    <video class="img-fluid rounded z-depth-1" controls>
+      <source src="assets/img/pg/trailer.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 </div>
 <div class="caption">
     Trailer. <a href="https://www.youtube.com/watch?v=gFWpbuZchxY" target="_blank">Watch here in high quality.</a>
@@ -65,26 +68,26 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.1.jpg" title="character customization" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.1.png" title="character customization" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.6.jpg" title="tutorial" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.2.jpg" title="samurai 1" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.3.jpg" title="samurai 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.6.png" title="tutorial" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.4.jpg" title="buster sword" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.2.png" title="samurai 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pg/4.5.jpg" title="awakening" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.3.png" title="samurai 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.4.png" title="buster sword" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pg/4.5.png" title="awakening" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
