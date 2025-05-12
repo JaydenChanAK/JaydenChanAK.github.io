@@ -33,7 +33,7 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 5. <b>Robust character customization</b> including deity selection, weapon loadouts, and cosmetics.  
 6. <b>Evolving battle arenas</b> that dynamically shrink, increasing intensity as matches progress.
 
-<div class="row">
+<div class="row d-flex justify-content-center mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid 
         path="assets/img/pg/trailer.mp4"
@@ -42,7 +42,6 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
         controls=true
         autoplay=false
         muted=false
-        caption="Watch the trailer above"
         %}
     </div>
 </div>
