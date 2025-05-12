@@ -35,11 +35,11 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-    <video class="img-fluid rounded z-depth-1" controls>
-      <source src="assets/img/pg/trailer.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
+        <video class="img-fluid rounded z-depth-1" controls>
+            <source src="assets/img/pg/trailer.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 </div>
 <div class="caption">
     Trailer. <a href="https://www.youtube.com/watch?v=gFWpbuZchxY" target="_blank">Watch here in high quality.</a>
