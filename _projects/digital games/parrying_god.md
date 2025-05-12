@@ -24,6 +24,15 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 2. Create an in-depth parrying system to reward skillful gameplay.
 3. Design original gameplay that stands out from the genre.
 
+<b>Key Features:</b>
+
+1. Seamless online multiplayer powered by <b>Steamworks</b> and <b>Mirror</b> integration.  
+2. <b>Smash-inspired knockback system</b> based on damage percentage for high-stakes combat.  
+3. A <b>deep and responsive combat system</b> featuring parries, dodges, powerful abilities, intricate combos, and game-changing god forms.  
+4. <b>Dynamic combo mechanics</b> with real-time, adaptive UI feedback for each input.  
+5. <b>Robust character customization</b> including deity selection, weapon loadouts, and cosmetics.  
+6. <b>Evolving battle arenas</b> that dynamically shrink, increasing intensity as matches progress.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div class="embed-responsive embed-responsive-16by9">
