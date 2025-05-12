@@ -4,7 +4,7 @@ title: Parrying God
 description: 
     <u><b>Designer and Developer</b></u> <br/> 
     Sekiro meets Smash Bros. <br/> 
-    <i>January 2025 - Present</i>
+    <i>January 2025 - May 2025</i>
 img: assets/img/pg/1.1.png
 importance: 1
 category: digital games
