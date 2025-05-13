@@ -5,7 +5,7 @@ description:
     <u><b>Developer</b></u> <br/> 
     Website to predict chance of heart disease. <br/> 
     <i>November 2024</i>
-img:
+img: assets/img/heart/cover.png
 importance: 2
 category: web development
 related_publications: false
