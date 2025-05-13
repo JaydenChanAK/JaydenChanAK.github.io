@@ -393,7 +393,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-parrying-god",
           title: 'Parrying God',
-          description: "Designer and Developer  Sekiro meets Smash Bros.  January 2025 - May 2025",
+          description: "Designer and Developer  Sekiro meets Smash Bros.  January - May 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/digital%20games/parrying_god/";
             },},{id: "projects-we-39-re-d-e-a-d",
