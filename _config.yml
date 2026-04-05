@@ -194,6 +194,7 @@ exclude:
   - _pages/news.md
   - _pages/profiles.md
   - _pages/publications.md
+  - _pages/repositories.md
   - _pages/teaching.md
   - purgecss.config.js
   - README.md
