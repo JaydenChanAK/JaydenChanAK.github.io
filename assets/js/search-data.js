@@ -16,7 +16,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "dropdown-parrying-god",
+              title: "Parrying God",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/_projects/digital_games/parrying_god.md/";
+              },
+            },{id: "dropdown-all-games",
+              title: "All Games",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/games/";
+              },
+            },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
