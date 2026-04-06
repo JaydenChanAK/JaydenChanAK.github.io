@@ -196,6 +196,7 @@ exclude:
   - _pages/publications.md
   - _pages/repositories.md
   - _pages/teaching.md
+  - _projects/digital_games/we're_dead.md
   - purgecss.config.js
   - README.md
   - readme_preview/
