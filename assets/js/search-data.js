@@ -9,19 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A mostly complete collection of my projects and games.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "dropdown-parrying-god",
+  },{id: "dropdown-parrying-god",
               title: "Parrying God",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/_projects/digital_games/parrying_god.md/";
+                window.location.href = "/_projects/digital%20games/parrying_god/";
               },
             },{id: "dropdown-all-games",
               title: "All Games",
@@ -30,7 +23,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/games/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "nav-projects",
+          title: "projects",
+          description: "A mostly complete collection of my projects and games.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -403,11 +403,6 @@ ninja.data = [{
           description: "Designer and Developer  Sekiro meets Smash Bros.  January - May 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/digital%20games/parrying_god/";
-            },},{id: "projects-we-39-re-d-e-a-d",
-          title: 'We&amp;#39;re D.E.A.D.',
-          description: "Department of Entity and Anomaly Disposal  In development...",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/digital%20games/we're_dead/";
             },},{id: "projects-aircraft-identification-tool",
           title: 'Aircraft Identification Tool',
           description: "Developer  ML pipeline and model to classify aircraft.  January - February 2025",
