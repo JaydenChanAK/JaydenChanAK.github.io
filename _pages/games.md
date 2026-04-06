@@ -2,13 +2,13 @@
 layout: page
 title: games
 permalink: /games/
-description: A collection of my digital and tabletop games.
+description: A mostly complete collection of games I've worked on.
 nav: true
 nav_order: 3
 dropdown: true
 children:
   - title: Parrying God
-    permalink: /_projects/digital games/parrying_god/
+    permalink: /projects/digital games/parrying_god/
   - title: divider
   - title: All Games
     permalink: /games/
