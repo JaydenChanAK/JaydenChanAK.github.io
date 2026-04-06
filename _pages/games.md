@@ -4,11 +4,11 @@ title: games
 permalink: /games/
 description: A collection of my digital and tabletop games.
 nav: true
-nav_order: 4
+nav_order: 3
 dropdown: true
 children:
   - title: Parrying God
-    permalink: /_projects/digital_games/parrying_god.md/
+    permalink: /_projects/digital games/parrying_god/
   - title: divider
   - title: All Games
     permalink: /games/
