@@ -14,7 +14,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/_projects/digital%20games/parrying_god/";
+                window.location.href = "/projects/digital%20games/parrying_god/";
               },
             },{id: "dropdown-all-games",
               title: "All Games",
