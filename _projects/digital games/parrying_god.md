@@ -33,6 +33,17 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 5. <b>Robust character customization</b> including deity selection, weapon loadouts, and cosmetics.  
 6. <b>Evolving battle arenas</b> that dynamically shrink, increasing intensity as matches progress.
 
+<div class="row d-flex justify-content-center mt-4 mb-5">
+    <div class="col-auto">
+        <a href="https://jedreg.itch.io/parrying-god?secret=kJ8S3dbzRe0u4G67bYDTqrBdJA" 
+           class="btn btn-primary btn-lg px-5 py-3" 
+           target="_blank" 
+           style="font-size: 1.5rem; font-weight: bold; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+           Download on Itch.io
+        </a>
+    </div>
+</div>
+
 <div class="row d-flex justify-content-center mt-3">
     <div class="col-sm-12 col-md-8">
         {% include video.liquid 
