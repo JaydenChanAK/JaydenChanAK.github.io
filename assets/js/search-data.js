@@ -408,6 +408,11 @@ ninja.data = [{
           description: "Developer  ML pipeline and model to classify aircraft.  January - February 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/machine%20learning/aircraft_identification_tool/";
+            },},{id: "projects-heart-disease-prediction-tool",
+          title: 'Heart Disease Prediction Tool',
+          description: "Developer  Website to predict chance of heart disease.  November 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/machine%20learning/heart_disease_prediction_tool/";
             },},{id: "projects-regression-and-classification",
           title: 'Regression and Classification',
           description: "Developer  Regression and classification models.  April - May 2024",
@@ -423,11 +428,6 @@ ninja.data = [{
           description: "Lead Designer  All is fair in love, war, and the relentless pursuit of corporate domination.  February - March 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tabletop%20games/capitalist_craze/";
-            },},{id: "projects-heart-disease-prediction-tool",
-          title: 'Heart Disease Prediction Tool',
-          description: "Developer  Website to predict chance of heart disease.  November 2024",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/web%20development/heart_disease_prediction_tool/";
             },},{id: "projects-rate-my-tos",
           title: 'Rate My TOS',
           description: "Front-End Developer and AI Lead  Chrome extension to evaluate terms of service.  November 2024",
