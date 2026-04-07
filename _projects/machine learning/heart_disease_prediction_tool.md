@@ -6,8 +6,8 @@ description:
     Website to predict chance of heart disease. <br/> 
     <i>November 2024</i>
 img: assets/img/heart/cover.png
-importance: 2
-category: web development
+importance: 3
+category: machine learning
 related_publications: false
 ---
 
