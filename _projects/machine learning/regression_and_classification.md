@@ -6,7 +6,7 @@ description:
     Regression and classification models. <br/> 
     <i>April - May 2024</i>
 img:
-importance: 2
+importance: 3
 category: machine learning
 related_publications: false
 ---
