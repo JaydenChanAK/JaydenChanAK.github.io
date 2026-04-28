@@ -16,6 +16,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projects/digital%20games/parrying_god/";
               },
+            },{id: "dropdown-my-hot-vampire-date-is-trying-to-kill-me",
+              title: "My Hot Vampire Date is Trying to Kill Me!",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/digital%20games/vampire_date/";
+              },
             },{id: "dropdown-all-games",
               title: "All Games",
               description: "",
@@ -403,6 +410,11 @@ ninja.data = [{
           description: "Designer and Developer  Sekiro meets Smash Bros.  January - May 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/digital%20games/parrying_god/";
+            },},{id: "projects-my-hot-vampire-date-is-trying-to-kill-me",
+          title: 'My Hot Vampire Date Is Trying To Kill Me!',
+          description: "Designer and Developer  I can fix her.  February - April 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/digital%20games/vampire_date/";
             },},{id: "projects-aircraft-identification-tool",
           title: 'Aircraft Identification Tool',
           description: "Developer  ML pipeline and model to classify aircraft.  January - February 2025",
