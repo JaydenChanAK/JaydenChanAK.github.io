@@ -49,6 +49,9 @@ My Hot Vampire Date Is Trying To Kill Me! is a horror card game where a simple g
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/vamp/4.png" title="ghost" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/vamp/5.gif" title="bat" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     Game art.
@@ -56,7 +59,7 @@ My Hot Vampire Date Is Trying To Kill Me! is a horror card game where a simple g
 
 <div class="row mt-5">
     <div class="col-sm">
-        <p><b>Made in collaboration with:</b> Steven Ren, Aman Kumar, Emma Trzupek, Steven Xie</p>
+        <p><b>Made in collaboration with:</b> Steven Ren, Aman Kumar, Emma Trzupek, Steven Xie, Clara Yoder</p>
         <p><b>Developed as part of:</b> USC Games</p>
     </div>
 </div>
