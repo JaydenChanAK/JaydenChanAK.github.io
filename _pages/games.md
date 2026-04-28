@@ -10,6 +10,9 @@ children:
   - title: Parrying God
     permalink: /projects/digital games/parrying_god/
   - title: divider
+  - title: My Hot Vampire Date is Trying to Kill Me!
+    permalink: /projects/digital games/vampire_date/
+  - title: divider
   - title: All Games
     permalink: /games/
 display_categories: [digital games, tabletop games]
