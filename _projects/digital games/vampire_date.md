@@ -42,10 +42,6 @@ My Hot Vampire Date Is Trying To Kill Me! is a horror card game where a simple g
         {% include figure.liquid loading="eager" path="assets/img/vamp/2.png" title="win screen" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    <!-- Put your caption here -->
-</div>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/vamp/3.png" title="butler" class="img-fluid rounded z-depth-1" %}
@@ -55,7 +51,7 @@ My Hot Vampire Date Is Trying To Kill Me! is a horror card game where a simple g
     </div>
 </div>
 <div class="caption">
-    <!-- Put your caption here -->
+    Game art.
 </div>
 
 <div class="row mt-5">
