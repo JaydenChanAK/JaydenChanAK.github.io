@@ -412,7 +412,7 @@ ninja.data = [{
               window.location.href = "/projects/digital%20games/parrying_god/";
             },},{id: "projects-my-hot-vampire-date-is-trying-to-kill-me",
           title: 'My Hot Vampire Date Is Trying To Kill Me!',
-          description: "Designer and Developer  I can fix her.  February - April 2026",
+          description: "Designer and Developer  You can (not) fix her.  February - April 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/digital%20games/vampire_date/";
             },},{id: "projects-aircraft-identification-tool",
