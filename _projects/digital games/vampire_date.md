@@ -3,7 +3,7 @@ layout: page
 title: My Hot Vampire Date Is Trying To Kill Me!
 description: 
     <u><b>Designer and Developer</b></u> <br/> 
-    I can fix her. <br/> 
+    You can (not) fix her. <br/> 
     <i>February - April 2026</i>
 img: assets/img/vamp/1.png
 importance: 2
