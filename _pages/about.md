@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science Games + AI @ USC
+subtitle: B.S. Computer Science Games + M.S. Computer Science @ USC
 
 profile:
   align: right
