@@ -445,6 +445,11 @@ ninja.data = [{
           description: "Front-End Developer and AI Lead  Chrome extension to evaluate terms of service.  November 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/web%20development/rate_my_tos/";
+            },},{id: "projects-yt-wrapped",
+          title: 'YT Wrapped',
+          description: "Solo Developer  Chrome extension that tracks your YouTube watch time and gives you a Spotify-Wrapped-style recap.  July 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/web%20development/yt_wrapped/";
             },},{
         id: 'social-email',
         title: 'email',
