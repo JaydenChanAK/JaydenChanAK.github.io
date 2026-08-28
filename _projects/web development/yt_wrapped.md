@@ -13,17 +13,6 @@ related_publications: false
 
 YouTube Wrapped is a Chrome extension that tracks how much time you spend watching YouTube videos and Shorts, and turns that into a daily stats popup plus a customizable weekly/monthly Wrapped-style recap.
 
-<div class="row d-flex justify-content-center mt-4 mb-4">
-    <div class="col-auto">
-        <a href="https://chromewebstore.google.com/detail/oicombhgpnomnocffdlmdadpkhkimhhp?utm_source=item-share-cb"
-           class="btn btn-primary btn-lg px-5 py-3"
-           target="_blank"
-           style="font-size: 1.5rem; font-weight: bold; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-           View on Chrome Web Store
-        </a>
-    </div>
-</div>
-
 <b>Key Features:</b>
 
 <b>Daily Stats</b>
@@ -53,6 +42,17 @@ YouTube Wrapped is a Chrome extension that tracks how much time you spend watchi
 - Choose how many top channels to show
 - Set a minimum threshold for categories
 - Pick weekly or monthly Wrapped, and how many cards to show
+
+<div class="row d-flex justify-content-center mt-4 mb-4">
+    <div class="col-auto">
+        <a href="https://chromewebstore.google.com/detail/oicombhgpnomnocffdlmdadpkhkimhhp?utm_source=item-share-cb"
+           class="btn btn-primary btn-lg px-5 py-3"
+           target="_blank"
+           style="font-size: 1.5rem; font-weight: bold; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+           View on Chrome Web Store
+        </a>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
