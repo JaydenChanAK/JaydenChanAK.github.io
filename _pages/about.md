@@ -6,7 +6,7 @@ subtitle: B.S. Computer Science Games + M.S. Computer Science @ USC
 
 profile:
   align: right
-  image: prof_pic.png
+  image: j_chan_enhanced.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
