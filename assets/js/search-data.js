@@ -30,13 +30,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projects/artificial%20intelligence/heart_disease_prediction_tool/";
               },
-            },{id: "dropdown-regression-and-classification",
-              title: "Regression and Classification",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/projects/artificial%20intelligence/regression_and_classification/";
-              },
             },{id: "dropdown-all-ai-projects",
               title: "All AI Projects",
               description: "",
