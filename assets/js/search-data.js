@@ -44,14 +44,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/artificial_intelligence/";
               },
-            },{id: "nav-projects",
-          title: "projects",
-          description: "A mostly complete collection of my projects and games.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "dropdown-hangout",
+            },{id: "dropdown-hangout",
               title: "Hangout",
               description: "",
               section: "Dropdown",
@@ -114,7 +107,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/games/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "nav-projects",
+          title: "projects",
+          description: "A mostly complete collection of my projects and games.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
