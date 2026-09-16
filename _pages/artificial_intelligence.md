@@ -16,9 +16,6 @@ children:
   - title: Heart Disease Prediction Tool
     permalink: /projects/artificial intelligence/heart_disease_prediction_tool/
   - title: divider
-  - title: Regression and Classification
-    permalink: /projects/artificial intelligence/regression_and_classification/
-  - title: divider
   - title: All AI Projects
     permalink: /artificial_intelligence/
 display_categories: [artificial intelligence]
