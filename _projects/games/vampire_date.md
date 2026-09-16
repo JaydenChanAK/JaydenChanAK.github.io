@@ -7,7 +7,7 @@ description:
     <i>February - April 2026</i>
 img: assets/img/vamp/1.png
 importance: 4
-category: digital games
+category: games
 related_publications: false
 ---
 

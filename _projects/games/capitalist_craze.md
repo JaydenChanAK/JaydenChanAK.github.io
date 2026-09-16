@@ -6,8 +6,8 @@ description:
     All is fair in love, war, and the relentless pursuit of corporate domination. <br/> 
     <i>February - March 2024</i>
 img: assets/img/capitalist/cover.png
-importance: 2
-category: tabletop games
+importance: 5
+category: games
 related_publications: false
 ---
 

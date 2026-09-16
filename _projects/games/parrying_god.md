@@ -7,7 +7,7 @@ description:
     <i>January - May 2025</i>
 img: assets/img/pg/1.1.png
 importance: 2
-category: digital games
+category: games
 related_publications: false
 ---
 

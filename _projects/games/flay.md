@@ -7,7 +7,7 @@ description:
     <i>August 2026 - present</i>
 img: 
 importance: 1
-category: digital games
+category: games
 related_publications: false
 ---
 

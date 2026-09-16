@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A mostly complete collection of my projects and games.
 nav: true
-nav_order: 4
+nav_order: 6
 display_categories: [artificial intelligence, software development, games]
 horizontal: false
 ---
