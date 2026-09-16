@@ -4,7 +4,7 @@ title: software development
 permalink: /software_development/
 description:
 nav: true
-nav_order: 5
+nav_order: 4
 dropdown: true
 children:
   - title: Hangout
@@ -16,7 +16,7 @@ children:
   - title: Rate My TOS
     permalink: /projects/software development/rate_my_tos/
   - title: divider
-  - title: All Software
+  - title: All Software Projects
     permalink: /software_development/
 display_categories: [software development]
 horizontal: false

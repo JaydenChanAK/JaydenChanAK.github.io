@@ -2,7 +2,7 @@
 layout: page
 title: artificial intelligence
 permalink: /artificial_intelligence/
-description: A mostly complete collection of AI and machine learning projects I've worked on.
+description:
 nav: true
 nav_order: 3
 dropdown: true
@@ -19,7 +19,7 @@ children:
   - title: Regression and Classification
     permalink: /projects/artificial intelligence/regression_and_classification/
   - title: divider
-  - title: All AI
+  - title: All AI Projects
     permalink: /artificial_intelligence/
 display_categories: [artificial intelligence]
 horizontal: false
