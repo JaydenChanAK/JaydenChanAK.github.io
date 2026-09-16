@@ -1,31 +1,31 @@
 ---
 layout: page
-title: games
-permalink: /games/
-description:
+title: artificial intelligence
+permalink: /artificial_intelligence/
+description: A mostly complete collection of AI and machine learning projects I've worked on.
 nav: true
-nav_order: 4
+nav_order: 3
 dropdown: true
 children:
-  - title: Flay
-    permalink: /projects/digital games/flay/
+  - title: Sentiment Analysis for Stock Market Trend Prediction
+    permalink: /projects/artificial intelligence/sentiment_analysis/
   - title: divider
-  - title: Parrying God
-    permalink: /projects/digital games/parrying_god/
+  - title: Aircraft Identification Tool
+    permalink: /projects/artificial intelligence/aircraft_identification_tool/
   - title: divider
-  - title: Line By Line
-    permalink: /projects/digital games/line_by_line/
+  - title: Heart Disease Prediction Tool
+    permalink: /projects/artificial intelligence/heart_disease_prediction_tool/
   - title: divider
-  - title: My Hot Vampire Date is Trying to Kill Me!
-    permalink: /projects/digital games/vampire_date/
+  - title: Regression and Classification
+    permalink: /projects/artificial intelligence/regression_and_classification/
   - title: divider
-  - title: All Games
-    permalink: /games/
-display_categories: [games]
+  - title: All AI
+    permalink: /artificial_intelligence/
+display_categories: [artificial intelligence]
 horizontal: false
 ---
 
-<!-- pages/games.md -->
+<!-- pages/artificial_intelligence.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

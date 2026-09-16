@@ -1,31 +1,28 @@
 ---
 layout: page
-title: games
-permalink: /games/
+title: software development
+permalink: /software_development/
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 dropdown: true
 children:
-  - title: Flay
-    permalink: /projects/digital games/flay/
+  - title: Hangout
+    permalink: /projects/software development/hangout/
   - title: divider
-  - title: Parrying God
-    permalink: /projects/digital games/parrying_god/
+  - title: YouTube Wrapped
+    permalink: /projects/software development/yt_wrapped/
   - title: divider
-  - title: Line By Line
-    permalink: /projects/digital games/line_by_line/
+  - title: Rate My TOS
+    permalink: /projects/software development/rate_my_tos/
   - title: divider
-  - title: My Hot Vampire Date is Trying to Kill Me!
-    permalink: /projects/digital games/vampire_date/
-  - title: divider
-  - title: All Games
-    permalink: /games/
-display_categories: [games]
+  - title: All Software
+    permalink: /software_development/
+display_categories: [software development]
 horizontal: false
 ---
 
-<!-- pages/games.md -->
+<!-- pages/software_development.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
