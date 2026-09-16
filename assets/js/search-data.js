@@ -37,12 +37,47 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projects/artificial%20intelligence/regression_and_classification/";
               },
-            },{id: "dropdown-all-ai",
-              title: "All AI",
+            },{id: "dropdown-all-ai-projects",
+              title: "All AI Projects",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/artificial_intelligence/";
+              },
+            },{id: "nav-projects",
+          title: "projects",
+          description: "A mostly complete collection of my projects and games.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "dropdown-hangout",
+              title: "Hangout",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/software%20development/hangout/";
+              },
+            },{id: "dropdown-youtube-wrapped",
+              title: "YouTube Wrapped",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/software%20development/yt_wrapped/";
+              },
+            },{id: "dropdown-rate-my-tos",
+              title: "Rate My TOS",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/software%20development/rate_my_tos/";
+              },
+            },{id: "dropdown-all-software-projects",
+              title: "All Software Projects",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/software_development/";
               },
             },{id: "dropdown-flay",
               title: "Flay",
@@ -78,41 +113,6 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/games/";
-              },
-            },{id: "nav-projects",
-          title: "projects",
-          description: "A mostly complete collection of my projects and games.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "dropdown-hangout",
-              title: "Hangout",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/projects/software%20development/hangout/";
-              },
-            },{id: "dropdown-youtube-wrapped",
-              title: "YouTube Wrapped",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/projects/software%20development/yt_wrapped/";
-              },
-            },{id: "dropdown-rate-my-tos",
-              title: "Rate My TOS",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/projects/software%20development/rate_my_tos/";
-              },
-            },{id: "dropdown-all-software",
-              title: "All Software",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/software_development/";
               },
             },{id: "post-a-post-with-image-galleries",
       
