@@ -6,8 +6,8 @@ description:
     Regression and classification models. <br/> 
     <i>April - May 2024</i>
 img:
-importance: 3
-category: machine learning
+importance: 4
+category: artificial intelligence
 related_publications: false
 ---
 

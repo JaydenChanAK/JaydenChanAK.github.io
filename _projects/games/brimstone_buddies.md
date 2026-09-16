@@ -6,8 +6,8 @@ description:
     'Cute and fucked up' deathmatch card game. <br/> 
     <i>March - May 2024</i>
 img: assets/img/brimstone/cover.jpg
-importance: 1
-category: tabletop games
+importance: 6
+category: games
 related_publications: false
 ---
 

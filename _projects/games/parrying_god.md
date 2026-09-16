@@ -6,7 +6,7 @@ description:
     Sekiro meets Smash Bros. <br/> 
     <i>January - May 2025</i>
 img: assets/img/pg/1.1.png
-importance: 1
+importance: 2
 category: digital games
 related_publications: false
 ---

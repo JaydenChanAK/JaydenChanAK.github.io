@@ -6,8 +6,8 @@ description:
     ML pipeline and model to classify aircraft. <br/> 
     <i>January - February 2025</i>
 img:
-importance: 1
-category: machine learning
+importance: 2
+category: artificial intelligence
 related_publications: false
 ---
 

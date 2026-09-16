@@ -2,12 +2,12 @@
 layout: page
 title: YouTube Wrapped
 description:
-    <u><b>Solo Developer</b></u> <br/>
+    <u><b>Developer</b></u> <br/>
     Chrome extension that tracks your YouTube watch time and gives you a Spotify-Wrapped-style recap. <br/>
     <i>July 2026</i>
 img: assets/img/ytwrapped/promo_tile.png
-importance: 1
-category: web development
+importance: 2
+category: software development
 related_publications: false
 ---
 

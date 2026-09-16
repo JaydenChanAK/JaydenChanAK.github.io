@@ -6,8 +6,8 @@ description:
     Chrome extension to evaluate terms of service. <br/> 
     <i>November 2024</i>
 img: assets/img/tos/cover.png
-importance: 2
-category: web development
+importance: 3
+category: software development
 related_publications: false
 ---
 
