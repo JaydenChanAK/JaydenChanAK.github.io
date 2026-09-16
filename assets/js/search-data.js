@@ -405,51 +405,71 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-parrying-god",
-          title: 'Parrying God',
-          description: "Designer and Developer  Sekiro meets Smash Bros.  January - May 2025",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/digital%20games/parrying_god/";
-            },},{id: "projects-my-hot-vampire-date-is-trying-to-kill-me",
-          title: 'My Hot Vampire Date Is Trying To Kill Me!',
-          description: "Designer and Developer  You can (not) fix her.  February - April 2026",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/digital%20games/vampire_date/";
-            },},{id: "projects-aircraft-identification-tool",
+          section: "News",},{id: "projects-aircraft-identification-tool",
           title: 'Aircraft Identification Tool',
           description: "Developer  ML pipeline and model to classify aircraft.  January - February 2025",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/machine%20learning/aircraft_identification_tool/";
+              window.location.href = "/projects/artificial%20intelligence/aircraft_identification_tool/";
             },},{id: "projects-heart-disease-prediction-tool",
           title: 'Heart Disease Prediction Tool',
           description: "Developer  Website to predict chance of heart disease.  November 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/machine%20learning/heart_disease_prediction_tool/";
+              window.location.href = "/projects/artificial%20intelligence/heart_disease_prediction_tool/";
             },},{id: "projects-regression-and-classification",
           title: 'Regression and Classification',
           description: "Developer  Regression and classification models.  April - May 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/machine%20learning/regression_and_classification/";
+              window.location.href = "/projects/artificial%20intelligence/regression_and_classification/";
+            },},{id: "projects-sentiment-analysis-for-stock-market-trend-prediction",
+          title: 'Sentiment Analysis for Stock Market Trend Prediction',
+          description: "Developer  WIP  August 2026 - present",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/artificial%20intelligence/sentiment_analysis/";
             },},{id: "projects-brimstone-buddies",
           title: 'Brimstone Buddies',
           description: "Lead Designer  &#39;Cute and fucked up&#39; deathmatch card game.  March - May 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/tabletop%20games/brimstone_buddies/";
+              window.location.href = "/projects/games/brimstone_buddies/";
             },},{id: "projects-capitalist-craze",
           title: 'Capitalist Craze',
           description: "Lead Designer  All is fair in love, war, and the relentless pursuit of corporate domination.  February - March 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/tabletop%20games/capitalist_craze/";
+              window.location.href = "/projects/games/capitalist_craze/";
+            },},{id: "projects-flay",
+          title: 'FLAY',
+          description: "Designer and Developer  WIP  August 2026 - present",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/games/flay/";
+            },},{id: "projects-line-by-line",
+          title: 'Line By Line',
+          description: "QA Lead  WIP  August 2026 - present",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/games/line_by_line/";
+            },},{id: "projects-parrying-god",
+          title: 'Parrying God',
+          description: "Designer and Developer  Sekiro meets Smash Bros.  January - May 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/games/parrying_god/";
+            },},{id: "projects-my-hot-vampire-date-is-trying-to-kill-me",
+          title: 'My Hot Vampire Date Is Trying To Kill Me!',
+          description: "Designer and Developer  You can (not) fix her.  February - April 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/games/vampire_date/";
+            },},{id: "projects-hangout",
+          title: 'Hangout',
+          description: "Developer  WIP  August 2026 - present",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/software%20development/hangout/";
             },},{id: "projects-rate-my-tos",
           title: 'Rate My TOS',
           description: "Front-End Developer and AI Lead  Chrome extension to evaluate terms of service.  November 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web%20development/rate_my_tos/";
+              window.location.href = "/projects/software%20development/rate_my_tos/";
             },},{id: "projects-youtube-wrapped",
           title: 'YouTube Wrapped',
-          description: "Solo Developer  Chrome extension that tracks your YouTube watch time and gives you a Spotify-Wrapped-style recap.  July 2026",
+          description: "Developer  Chrome extension that tracks your YouTube watch time and gives you a Spotify-Wrapped-style recap.  July 2026",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/web%20development/yt_wrapped/";
+              window.location.href = "/projects/software%20development/yt_wrapped/";
             },},{
         id: 'social-email',
         title: 'email',
