@@ -9,12 +9,61 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-parrying-god",
+  },{id: "dropdown-sentiment-analysis-for-stock-market-trend-prediction",
+              title: "Sentiment Analysis for Stock Market Trend Prediction",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/artificial%20intelligence/sentiment_analysis/";
+              },
+            },{id: "dropdown-aircraft-identification-tool",
+              title: "Aircraft Identification Tool",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/artificial%20intelligence/aircraft_identification_tool/";
+              },
+            },{id: "dropdown-heart-disease-prediction-tool",
+              title: "Heart Disease Prediction Tool",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/artificial%20intelligence/heart_disease_prediction_tool/";
+              },
+            },{id: "dropdown-regression-and-classification",
+              title: "Regression and Classification",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/artificial%20intelligence/regression_and_classification/";
+              },
+            },{id: "dropdown-all-ai",
+              title: "All AI",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/artificial_intelligence/";
+              },
+            },{id: "dropdown-flay",
+              title: "Flay",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/digital%20games/flay/";
+              },
+            },{id: "dropdown-parrying-god",
               title: "Parrying God",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/projects/digital%20games/parrying_god/";
+              },
+            },{id: "dropdown-line-by-line",
+              title: "Line By Line",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/digital%20games/line_by_line/";
               },
             },{id: "dropdown-my-hot-vampire-date-is-trying-to-kill-me",
               title: "My Hot Vampire Date is Trying to Kill Me!",
@@ -37,7 +86,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "dropdown-hangout",
+              title: "Hangout",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/software%20development/hangout/";
+              },
+            },{id: "dropdown-youtube-wrapped",
+              title: "YouTube Wrapped",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/software%20development/yt_wrapped/";
+              },
+            },{id: "dropdown-rate-my-tos",
+              title: "Rate My TOS",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/software%20development/rate_my_tos/";
+              },
+            },{id: "dropdown-all-software",
+              title: "All Software",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/software_development/";
+              },
+            },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
