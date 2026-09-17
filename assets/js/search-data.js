@@ -70,28 +70,28 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/digital%20games/flay/";
+                window.location.href = "/projects/games/flay/";
               },
             },{id: "dropdown-parrying-god",
               title: "Parrying God",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/digital%20games/parrying_god/";
+                window.location.href = "/projects/games/parrying_god/";
               },
             },{id: "dropdown-line-by-line",
               title: "Line By Line",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/digital%20games/line_by_line/";
+                window.location.href = "/projects/games/line_by_line/";
               },
             },{id: "dropdown-my-hot-vampire-date-is-trying-to-kill-me",
               title: "My Hot Vampire Date is Trying to Kill Me!",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/digital%20games/vampire_date/";
+                window.location.href = "/projects/games/vampire_date/";
               },
             },{id: "dropdown-all-games",
               title: "All Games",
