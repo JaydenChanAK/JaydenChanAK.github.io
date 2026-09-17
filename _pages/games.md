@@ -8,16 +8,16 @@ nav_order: 5
 dropdown: true
 children:
   - title: Flay
-    permalink: /projects/digital games/flay/
+    permalink: /projects/games/flay/
   - title: divider
   - title: Parrying God
-    permalink: /projects/digital games/parrying_god/
+    permalink: /projects/games/parrying_god/
   - title: divider
   - title: Line By Line
-    permalink: /projects/digital games/line_by_line/
+    permalink: /projects/games/line_by_line/
   - title: divider
   - title: My Hot Vampire Date is Trying to Kill Me!
-    permalink: /projects/digital games/vampire_date/
+    permalink: /projects/games/vampire_date/
   - title: divider
   - title: All Games
     permalink: /games/
