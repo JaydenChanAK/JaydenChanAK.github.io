@@ -3,7 +3,7 @@ layout: page
 title: Line By Line
 description:
     <u><b>QA Lead</b></u> <br/> 
-    WIP <br/> 
+    Use your wits to solve a murder. <br/> 
     <i>August 2026 - present</i>
 img: assets/img/line-by-line/logo.png
 importance: 3
