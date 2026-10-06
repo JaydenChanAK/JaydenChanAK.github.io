@@ -1,0 +1,119 @@
+%==============================================================
+%  Jayden Chan — Game Development Resume
+%  Compiles with pdfLaTeX (Overleaf: New Project > Blank, paste, Recompile)
+%==============================================================
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.45in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage{tabularx}
+
+% --- no paragraph indent, no page numbers ---
+\setlength{\parindent}{0pt}
+\pagestyle{empty}
+
+% --- section headings: bold caps + full-width rule ---
+\titleformat{\section}
+  {\large\bfseries\scshape}
+  {}{0em}{}[\vspace{2pt}\hrule\vspace{2pt}]
+\titlespacing{\section}{0pt}{5pt}{1pt}
+
+% --- tight bullet lists ---
+\newlist{tight}{itemize}{1}
+\setlist[tight]{leftmargin=1.5em, itemsep=1pt, topsep=2pt, parsep=0pt, label=$\bullet$}
+
+% --- entry header: {Org}{Location}{Role}{Dates} ---
+\newcommand{\entry}[4]{%
+  \noindent\begin{tabularx}{\textwidth}{@{}X r@{}}
+    \textbf{#1} & #2 \\
+    #3 & #4 \\
+  \end{tabularx}%
+  \vspace{-2pt}
+}
+
+%==============================================================
+\begin{document}
+
+% ---------------- Header ----------------
+\begin{center}
+  {\LARGE\bfseries JAYDEN CHAN}\\[4pt]
+  \href{https://jaydenchanak.github.io}{jaydenchanak.github.io} $|$
+  (907) 538-2039 $|$
+  \href{mailto:jaydenchan26@gmail.com}{jaydenchan26@gmail.com} $|$
+  \href{https://www.linkedin.com/in/jaydenchanak}{linkedin.com/in/jaydenchanak}
+\end{center}
+
+% ---------------- Education ----------------
+\section{Education}
+\entry{University of Southern California}{Los Angeles, CA}
+      {Master of Science in Computer Science}{January 2026--May 2027}
+\begin{tight}
+  \item Emphasis in Game Development and Artificial Intelligence
+\end{tight}
+\vspace{2pt}
+\entry{University of Southern California}{Los Angeles, CA}
+      {Bachelor of Science in Computer Science \& Games}{August 2023--May 2027}
+
+% ---------------- Skills ----------------
+\section{Skills}
+\textbf{Programming:} C++, C\#, Python, Javascript, Java, HTML, CSS\\
+\textbf{Technical:} Unreal Engine, Unity, Perforce, Diversion, Git, Docker, Confluence\\
+\textbf{Tools:} TensorFlow, PyTorch, Scikit-Learn, React.js, Node.js, Flask, PostgreSQL
+
+% ---------------- Work Experience ----------------
+\section{Work Experience}
+\entry{USC School of Cinematic Arts}{Los Angeles, CA}
+      {Operations}{January 2026--Present}
+\begin{tight}
+  \item Execute facility opening and closing procedures, ensuring operational readiness for daily business hours
+  \item Operate autonomously during high-volume shifts, handling administrative duties and facility needs
+  \item Resolve high-volume inquiries and requests from students, faculty, and visitors in a timely manner
+\end{tight}
+\vspace{2pt}
+\entry{Students of Service (SOS)}{San Antonio, TX (Remote)}
+      {Developer}{May 2025--August 2025}
+\begin{tight}
+  \item Collaborated with a multidisciplinary team of 8 to redesign and overhaul organization's website, enhancing usability and modernizing its design
+  \item Performed a comprehensive audit of existing website and contributed to design and implementation of updated navigation and responsive page layouts to enhance engagement and improve user retention
+  \item Coordinated with nonprofit leadership to translate organization needs into technical solutions
+\end{tight}
+\vspace{2pt}
+\entry{Virginia Partnership for Out-of-School Time}{Harrisonburg, VA (Remote)}
+      {Data Management Intern}{May 2024--August 2024}
+\begin{tight}
+  \item Developed two automated scripts to clean and organize over 1,000 data points, resulting in improved data quality and streamlined workflows tailored to organizational needs
+  \item Authored a comprehensive 15-page documentation covering code functionality and work processes to facilitate future use and maintenance
+\end{tight}
+
+% ---------------- Academic Projects ----------------
+\section{Academic Projects}
+\entry{Flay}{Los Angeles, CA}
+      {Designer and Programmer}{August 2026--Present}
+\begin{tight}
+  \item \textit{[Describe Flay: one line on what it does and your role/tech]}
+\end{tight}
+\vspace{2pt}
+\entry{Line By Line}{Los Angeles, CA}
+      {QA Lead}{August 2026--Present}
+\begin{tight}
+  \item \textit{[Describe Line By Line: one line on what it does and your role/tech]}
+\end{tight}
+\vspace{2pt}
+\entry{Parrying God}{Los Angeles, CA}
+      {Designer and Programmer}{January 2025--May 2025}
+\begin{tight}
+  \item Developed a 3rd-person multiplayer fighting game in Unity, managing full development lifecycle from initial prototype to a polished release candidate
+  \item Engineered a dynamic state-machine-driven combo system, integrating light, heavy, dash, and special attacks into unique branching attack chains for multiple weapon types
+  \item Implemented a momentum-based transformation system rewarding combat proficiency with gameplay-altering ``god forms,'' complete with new visuals and impactful combos
+  \item Architected scalable backend systems for weapons and transformations, facilitating rapid content expansion and prototyping
+  \item Created a dynamic HUD providing real-time feedback on available combos based on player inputs
+  \item Synchronized player combat states and physics for multiplayer using Mirror and utilized Steamworks for matchmaking
+  \item Iterated on gameplay mechanics through weekly playtest feedback, fine-tuning parry timing windows and hit registration
+\end{tight}
+
+\end{document}

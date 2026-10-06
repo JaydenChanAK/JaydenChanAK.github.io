@@ -1,0 +1,26 @@
+{
+  // Use Tectonic (installed at %LOCALAPPDATA%\Tectonic) instead of latexmk.
+  "latex-workshop.latex.tools": [
+    {
+      "name": "tectonic",
+      "command": "C:\\Dev\\GitHub\\JaydenChanAK.github.io\\resumes\\.tectonic\\tectonic.exe",
+      "args": [
+        "--synctex",
+        "--keep-logs",
+        "--outdir",
+        "%OUTDIR%",
+        "%DOC_EXT%"
+      ],
+      "env": {}
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "Tectonic",
+      "tools": ["tectonic"]
+    }
+  ],
+  "latex-workshop.latex.recipe.default": "first",
+  // Keep the source folders clean; PDFs land next to the .tex.
+  "latex-workshop.latex.outDir": "%DIR%"
+}
