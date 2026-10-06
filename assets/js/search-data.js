@@ -512,7 +512,7 @@ ninja.data = [{
               window.location.href = "/projects/games/flay/";
             },},{id: "projects-line-by-line",
           title: 'Line By Line',
-          description: "QA Lead  WIP  August 2026 - present",
+          description: "QA Lead  Use your wits to solve a murder.  August 2026 - present",
           section: "Projects",handler: () => {
               window.location.href = "/projects/games/line_by_line/";
             },},{id: "projects-parrying-god",
