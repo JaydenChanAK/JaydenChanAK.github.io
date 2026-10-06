@@ -14,7 +14,6 @@ related_publications: false
 <b>Game Overview</b><br/>
 Line By Line is a <b>third person detective game</b> where the solution lies hidden within the lines of a <b>crossword puzzle</b>.
 Uncover the truth by finding clues, interacting with the world and its inhabitants, and most importantly, solving crosswords.
-Made in collaboration with <b>USC Games</b>.
 
 <b>Narrative</b><br/>
 Play as Casey "Ace" Witt, a retired detective with a penchant for crossword puzzles.
@@ -68,4 +67,10 @@ Utilize clues and unlock prompts.
 </div>
 <div class="caption">
     Solving the crossword.
+</div>
+
+<div class="row mt-5">
+    <div class="col-sm">
+        <p><b>Developed as part of:</b> USC Games</p>
+    </div>
 </div>
