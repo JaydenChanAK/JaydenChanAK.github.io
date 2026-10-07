@@ -21,12 +21,12 @@ To Casey, crosswords aren't just puzzles — it's how she deduces information an
 The story follows Casey to a play at a local theater. Shortly after the show begins, the lead actor appears on stage and collapses.
 Production is halted, but Casey quickly jumps into action to find the murderer among a dysfunctional theater crew.
 
-<div class="row justify-content-center">
-    <div class="col-6 col-md-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/line-by-line/1.png" title="concept art" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center align-items-center">
+    <div class="col-auto mt-3 mt-md-0">
+        <img src="{{ '/assets/img/line-by-line/1.png' | relative_url }}" alt="concept art" class="rounded z-depth-1" style="height: 280px; width: auto; max-width: 100%;">
     </div>
-    <div class="col-6 col-md-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/line-by-line/2.png" title="concept art" class="img-fluid rounded z-depth-1" %}
+    <div class="col-auto mt-3 mt-md-0">
+        <img src="{{ '/assets/img/line-by-line/2.png' | relative_url }}" alt="concept art" class="rounded z-depth-1" style="height: 280px; width: auto; max-width: 100%;">
     </div>
 </div>
 <div class="caption">
