@@ -50,7 +50,7 @@ My Hot Vampire Date Is Trying To Kill Me! is a horror card game where a simple g
         {% include figure.liquid path="assets/img/vamp/4.png" title="ghost" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/vamp/5.gif" title="bat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vamp/5.gif" title="bat" class="img-fluid rounded z-depth-1" avoid_scaling=true %}
     </div>
 </div>
 <div class="caption">

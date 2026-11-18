@@ -2,7 +2,7 @@
 layout: page
 title: YouTube Wrapped
 description:
-    <u><b>Developer</b></u> <br/>
+    <u><b>Chrome Extension Developer</b></u> <br/>
     Chrome extension that tracks your YouTube watch time and gives you a Spotify-Wrapped-style recap. <br/>
     <i>July 2026</i>
 img: assets/img/ytwrapped/promo_tile.png

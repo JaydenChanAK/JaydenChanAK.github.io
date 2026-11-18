@@ -2,10 +2,10 @@
 layout: page
 title: Heart Disease Prediction Tool
 description:
-    <u><b>Developer</b></u> <br/> 
+    <u><b>Full-Stack ML Developer</b></u> <br/> 
     Website to predict chance of heart disease. <br/> 
     <i>November 2024</i>
-img: assets/img/heart/cover.png
+img:
 importance: 3
 category: artificial intelligence
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: Capitalist Craze
 description:
-    <u><b>Lead Designer</b></u> <br/> 
+    <u><b>Lead Game Designer</b></u> <br/> 
     All is fair in love, war, and the relentless pursuit of corporate domination. <br/> 
     <i>February - March 2024</i>
 img: assets/img/capitalist/cover.png

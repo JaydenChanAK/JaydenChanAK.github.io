@@ -2,7 +2,7 @@
 layout: page
 title: Parrying God
 description: 
-    <u><b>Designer and Developer</b></u> <br/> 
+    <u><b>Designer and Gameplay Programmer</b></u> <br/> 
     Sekiro meets Smash Bros. <br/> 
     <i>January - May 2025</i>
 img: assets/img/pg/1.1.png

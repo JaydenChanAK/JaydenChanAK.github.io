@@ -2,7 +2,7 @@
 layout: page
 title: Regression and Classification
 description:
-    <u><b>Developer</b></u> <br/> 
+    <u><b>Machine Learning Developer</b></u> <br/> 
     Regression and classification models. <br/> 
     <i>April - May 2024</i>
 img:

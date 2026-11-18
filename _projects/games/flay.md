@@ -2,9 +2,9 @@
 layout: page
 title: FLAY
 description:
-    <u><b>Designer and Developer</b></u> <br/> 
+    <u><b>Designer and Gameplay Programmer</b></u> <br/> 
     WIP <br/> 
-    <i>August 2026 - present</i>
+    <i>June 2026 - present</i>
 img: 
 importance: 1
 category: games

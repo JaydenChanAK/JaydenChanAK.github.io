@@ -2,7 +2,7 @@
 layout: page
 title: Aircraft Identification Tool
 description:
-    <u><b>Developer</b></u> <br/> 
+    <u><b>Computer Vision Developer</b></u> <br/> 
     ML pipeline and model to classify aircraft. <br/> 
     <i>January - February 2025</i>
 img:
