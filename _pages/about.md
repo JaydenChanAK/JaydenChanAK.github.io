@@ -26,7 +26,7 @@ latest_posts:
 
 Hey, I'm Jayden, and welcome to my portfolio! I was born and raised in Anchorage, Alaska, to first-generation immigrants, and I'm now based in Southern California.
 
-I'm a junior at the University of Southern California, studying computer science and game development. I am currently pursuing an accelerated master's in computer science, aiming to graduate with both a bachelor's and master's in the spring of 2027.
+I'm a senior at the University of Southern California, studying computer science and game development. I am currently pursuing an accelerated master's in computer science, aiming to graduate with both a bachelor's and master's in the spring of 2027.
 
 I'm passionate about game development and machine learning, and I'm also an avid gamer. I've been playing video games since I was a kid, and some of my favorites include Team Fortress 2, Elden Ring, Cyberpunk 2077, Expedition 33, and Deadlock.
 
