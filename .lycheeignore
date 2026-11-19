@@ -1,2 +1,5 @@
 linkedin.com
 reddit.com
+# Liquid template tags in source files (resolved at build time, e.g. {{ '/x.png' | relative_url }})
+%7B%7B
+\{\{
