@@ -1,10 +1,9 @@
 ---
 layout: page
 title: My Hot Vampire Date Is Trying To Kill Me!
-description: 
-    <u><b>Designer and Developer</b></u> <br/> 
-    You can (not) fix her. <br/> 
-    <i>February - April 2026</i>
+description: <u><b>Designer and Developer</b></u> <br/>
+  You can (not) fix her. <br/>
+  <i>February - April 2026</i>
 img: assets/img/vamp/1.png
 importance: 4
 category: games
@@ -15,16 +14,16 @@ My Hot Vampire Date Is Trying To Kill Me! is a horror card game where a simple g
 
 <b>Key Features:</b>
 
-1. <b>Go Fish with deception</b> – Your opponent cheats, forcing you to memorize cards and call out cheats at the right moment.  
-2. <b>Romance with consequences</b> – Manage tension and affection through dialogue choices. Don’t kill the vibe or get her too excited.  
-3. <b>Real-time horror threats</b> – Defend yourself from monsters attacking from multiple directions while playing.  
+1. <b>Go Fish with deception</b> – Your opponent cheats, forcing you to memorize cards and call out cheats at the right moment.
+2. <b>Romance with consequences</b> – Manage tension and affection through dialogue choices. Don’t kill the vibe or get her too excited.
+3. <b>Real-time horror threats</b> – Defend yourself from monsters attacking from multiple directions while playing.
 
 <b>Controls:</b>
 
-- Left Mouse Button: Interact and change camera view.  
-- Right Mouse Button: Toggle flashlight.  
-- Scroll Wheel: Change camera view.  
-- R: Reset to main menu.  
+- Left Mouse Button: Interact and change camera view.
+- Right Mouse Button: Toggle flashlight.
+- Scroll Wheel: Change camera view.
+- R: Reset to main menu.
 
 <div class="row d-flex justify-content-center mt-4 mb-5">
     <div class="col-auto">

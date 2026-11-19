@@ -4,13 +4,7 @@
     {
       "name": "tectonic",
       "command": "C:\\Dev\\GitHub\\JaydenChanAK.github.io\\resumes\\.tectonic\\tectonic.exe",
-      "args": [
-        "--synctex",
-        "--keep-logs",
-        "--outdir",
-        "%OUTDIR%",
-        "%DOC_EXT%"
-      ],
+      "args": ["--synctex", "--keep-logs", "--outdir", "%OUTDIR%", "%DOC_EXT%"],
       "env": {}
     }
   ],

@@ -51,8 +51,11 @@ horizontal: false
   {% endfor %}
 
 {% else %}
+
 <!-- Display projects without categories -->
+
 {% assign sorted_projects = site.projects | sort: "importance" %}
+
   <!-- Generate cards for each project -->
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}

@@ -2,9 +2,9 @@
 layout: page
 title: Sentiment Analysis for Stock Market Trend Prediction
 description: >
-    <u><b>Sentiment Pipeline Developer</b></u> <br/>
-    Team research project testing whether tweet sentiment helps predict stock direction. <br/>
-    <i>August 2026 - November 2026</i>
+  <u><b>Sentiment Pipeline Developer</b></u> <br/>
+  Team research project testing whether tweet sentiment helps predict stock direction. <br/>
+  <i>August 2026 - November 2026</i>
 img:
 importance: 1
 category: artificial intelligence

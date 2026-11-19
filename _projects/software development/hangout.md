@@ -2,9 +2,9 @@
 layout: page
 title: Hangout
 description: >
-    <u><b>Full-Stack Developer</b></u> <br/>
-    Mobile web app that gets plans out of the group chat and actually happening. <br/>
-    <i>August 2026 - November 2026</i>
+  <u><b>Full-Stack Developer</b></u> <br/>
+  Mobile web app that gets plans out of the group chat and actually happening. <br/>
+  <i>August 2026 - November 2026</i>
 img: assets/img/hangout/wordmark-white-on-purple.png
 importance: 1
 category: software development
@@ -174,7 +174,7 @@ Each person paints the 15-minute blocks they're free on a calendar-style grid (t
 
 ## Deciding where, and who's driving
 
-There's no map search; instead, people open Apple or Google Maps, copy an address, and paste it in, and everyone gets a tap-to-copy address. **Rides** are their own tab: each person chooses *Driving* (with a number of seats), *Need a ride*, or *My own way*. Setting your own status can never overbook a car, a driver can take a specific rider, and anyone can press *Assign open seats* to fill what's left.
+There's no map search; instead, people open Apple or Google Maps, copy an address, and paste it in, and everyone gets a tap-to-copy address. **Rides** are their own tab: each person chooses _Driving_ (with a number of seats), _Need a ride_, or _My own way_. Setting your own status can never overbook a car, a driver can take a specific rider, and anyone can press _Assign open seats_ to fill what's left.
 
 <div class="row justify-content-center">
     <div class="col-6 col-md-4 mt-3 mt-md-0">
@@ -226,7 +226,7 @@ Every hangout has its own chat, and every group has one too. Messages, photos, a
 
 ## Locked in, memories, and the archive
 
-A hangout is **locked in** only when the vote is confirmed *and* a time *and* a place are set; until then it shows as "Finishing up". The first time you see a fully locked-in plan, the app celebrates with confetti and the group's own funny picture. Afterward it becomes a **memory** with a photo to remember it by. If the dates pass without a decision, the plan moves to an **archive** where it can be looked at again or reopened with its ideas and chat intact.
+A hangout is **locked in** only when the vote is confirmed _and_ a time _and_ a place are set; until then it shows as "Finishing up". The first time you see a fully locked-in plan, the app celebrates with confetti and the group's own funny picture. Afterward it becomes a **memory** with a photo to remember it by. If the dates pass without a decision, the plan moves to an **archive** where it can be looked at again or reopened with its ideas and chat intact.
 
 <div class="row d-flex justify-content-center mt-3">
     <div class="col-8 col-md-4">
@@ -320,14 +320,13 @@ People join a group with an invite code; the owner can hand the group over or re
 
 - **Instant-runoff voting.** Each round counts first choices among the remaining options. If none has a majority, the one with the fewest is eliminated and its ballots transfer to their next choice. Ties for last place eliminate the newest suggestion, which guarantees a winner. The function also returns every round, so the UI can show how a result was reached.
 - **Best-time finder (sweep line).** Each person's free windows are merged, then a "line" sweeps across all of them, tracking the set of people free between each pair of changes. Every stretch where that set is constant is one segment, and segments are ranked by how many people are free.
-- **Ride matcher.** Three steps: keep riders in their current car if it still has room (driver-chosen riders first, so a driver cutting seats removes them last), trim anyone who no longer fits, and fill open seats first-come-first-served only when someone presses *Assign*. Ordinary changes never fill seats, so a car can never be overbooked.
+- **Ride matcher.** Three steps: keep riders in their current car if it still has room (driver-chosen riders first, so a driver cutting seats removes them last), trim anyone who no longer fits, and fill open seats first-come-first-served only when someone presses _Assign_. Ordinary changes never fill seats, so a car can never be overbooked.
 
 <b>Real-time.</b> Each hangout and group is a Socket.io room that a client joins only if the server confirms membership. Changes still go through normal REST requests; the server then pushes a small event, and the screens refresh. Typing indicators are relayed between sockets and never stored.
 
 <b>Background job.</b> A job runs every minute: it locks a vote when its deadline passes, archives hangouts whose dates passed without a decision, and sends the reminder an hour before a locked-in plan.
 
 <b>Security.</b> bcrypt-hashed passwords, signed login tokens that stop working when an account is deleted, rate limits on login and sign-up, a content security policy, a sign-up invite code for the beta, and input checks that validate types and lengths rather than only checking that a field exists. Deleting an account works like Discord: the person is replaced by "Deleted user" and their messages stay, but an owner must hand over or delete their groups first.
-
 
 ## Next steps
 

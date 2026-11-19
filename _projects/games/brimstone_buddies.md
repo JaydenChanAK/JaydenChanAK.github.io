@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Brimstone Buddies
-description: 
-    <u><b>Lead Game Designer</b></u> <br/> 
-    'Cute and fucked up' deathmatch card game. <br/> 
-    <i>March - May 2024</i>
+description: <u><b>Lead Game Designer</b></u> <br/>
+  'Cute and fucked up' deathmatch card game. <br/>
+  <i>March - May 2024</i>
 img: assets/img/brimstone/cover.jpg
 importance: 6
 category: games

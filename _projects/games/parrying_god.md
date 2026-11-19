@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Parrying God
-description: 
-    <u><b>Designer and Gameplay Programmer</b></u> <br/> 
-    Sekiro meets Smash Bros. <br/> 
-    <i>January - May 2025</i>
+description: <u><b>Designer and Gameplay Programmer</b></u> <br/>
+  Sekiro meets Smash Bros. <br/>
+  <i>January - May 2025</i>
 img: assets/img/pg/1.1.png
 importance: 2
 category: games
@@ -26,11 +25,11 @@ Parrying God is a high-intensity 3rd person multiplayer smash-like fighting game
 
 <b>Key Features:</b>
 
-1. Seamless online multiplayer powered by <b>Steamworks</b> and <b>Mirror</b> integration.  
-2. <b>Smash-inspired knockback system</b> based on damage percentage for high-stakes combat.  
-3. A <b>deep and responsive combat system</b> featuring parries, dodges, powerful abilities, intricate combos, and game-changing god forms.  
-4. <b>Dynamic combo mechanics</b> with real-time, adaptive UI feedback for each input.  
-5. <b>Robust character customization</b> including deity selection, weapon loadouts, and cosmetics.  
+1. Seamless online multiplayer powered by <b>Steamworks</b> and <b>Mirror</b> integration.
+2. <b>Smash-inspired knockback system</b> based on damage percentage for high-stakes combat.
+3. A <b>deep and responsive combat system</b> featuring parries, dodges, powerful abilities, intricate combos, and game-changing god forms.
+4. <b>Dynamic combo mechanics</b> with real-time, adaptive UI feedback for each input.
+5. <b>Robust character customization</b> including deity selection, weapon loadouts, and cosmetics.
 6. <b>Evolving battle arenas</b> that dynamically shrink, increasing intensity as matches progress.
 
 <div class="row d-flex justify-content-center mt-4 mb-5">

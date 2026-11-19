@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Rate My TOS
-description:
-    <u><b>Developer and AI Lead</b></u> <br/> 
-    Chrome extension to evaluate terms of service. <br/> 
-    <i>November 2024</i>
+description: <u><b>Developer and AI Lead</b></u> <br/>
+  Chrome extension to evaluate terms of service. <br/>
+  <i>November 2024</i>
 img: assets/img/tos/cover.png
 importance: 3
 category: software development
