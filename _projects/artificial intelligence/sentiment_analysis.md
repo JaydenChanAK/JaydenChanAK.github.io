@@ -28,7 +28,6 @@ I owned the **sentiment pipeline** and the **sentiment-only model** end to end.
 - **Sentiment-only model.** Features were daily signed sentiment, its 5- and 20-day trailing averages, and log tweet volume. Compared logistic regression, ridge, random forest, and an MLP against two baselines. I reused the team's labels and chronological train/validation/test split (with 20-trading-day gaps to prevent label leakage), so every model was evaluated on identical examples.
 - **Hand-off to the fusion models.** Exported per-example validation and test probabilities (date, ticker, horizon, split, label, `p_up`, forward return, target date, and as-of timestamp) in a shared format that the teammates building the combined models used for fusion.
 - **Evaluation rigor.** Found that the test period was a falling market: only 19–38% of examples went up, so always guessing "down" scored 62–81% accuracy. I pushed the team to report balanced accuracy and Brier score consistently across every section, and to separate two different "always down" baselines that had been conflated.
-- **Future work research.** Identified a public StockTwits archive (2008–2022) that covers all 10 tickers and includes user-labeled bullish/bearish sentiment, as a path to multi-year data and more varied market conditions.
 
 ## Team contributions
 
